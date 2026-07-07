@@ -10,13 +10,16 @@ This repository contains two C applications developed as part of my Data Structu
 - Self-balancing tree operations
 
 ### Infix to Postfix Expression Evaluator
-Supports:
+Features:
 - Single-digit numbers
 - Multi-digit numbers
 - Parentheses
 - Floating-point numbers
 - Negative numbers
-- Exponentiation (Power operation)
+- Exponentiation (power operator)
+
+## Project Requirements
+The original assignment specifications are included in this repository as PDF files.
 
 ## Language
 - C
