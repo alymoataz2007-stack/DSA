@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1778422889 source:c:\users\loq\onedrive\desktop\bst dictionary\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
